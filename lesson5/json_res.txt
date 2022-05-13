@@ -1,1 +1,0 @@
-[{"firm_1": 5000, "rakurs": 30000, "RedFish": 7000}, {"average_profit": 14000.0}]
